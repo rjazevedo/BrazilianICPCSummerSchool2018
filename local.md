@@ -5,11 +5,11 @@ layout: single
 ---
 ## Classrooms
 
-Our laboratories are located in the Institute of Computing, building IC-3. Our lectures will be in room **TBD**. All meals will be served at the University Restaurant.
+Our laboratories and classrooms are located in the Institute of Computing, building IC-3. All meals will be served at the University Restaurant.
 
 ## How to arrive in Campinas?
 
-Our nearest airport is Viracopos (VCP), served by the following airlines: Azul, TAM, Gol, e Avianca. There is a direct bus line from the airport to downtown and central bus station managed by [LiraBus](http://www.lirabus.com.br) (previously Caprioli), or you can take the city bus line 193 to the central bus terminal and bus 330 to Unicamp. A taxi from the airport to Unicamp will cost around R$120,00. We also have Uber in Campinas.
+Our nearest airport is Viracopos (VCP), served by the following airlines: Azul, TAM, Gol, e Avianca. There is a direct bus line from the airport to downtown and central bus station managed by [LiraBus](http://www.lirabus.com.br) (previously Caprioli), or you can take the city bus line 193 to the central bus terminal and bus 330 to Unicamp. A taxi from the airport to Unicamp will cost around R$120,00. We also have [Uber](https://www.uber.com/invite/ncjcb) in Campinas.
 
 If you prefer flying to São Paulo, you can take a bus from [LiraBus](http://www.lirabus.com.br) (previously Caprioli) to Campinas bus station, and take a bus to Unicamp (332 and switch to 330).
 
@@ -17,7 +17,7 @@ If you arrive by bus, you can take the bus 330 to Unicamp.
 
 You can also visit Unicamp web page for more bus line information: [Acesso à Unicamp](http://www.unicamp.br/unicamp/a-unicamp/servicos/acesso-a-unicamp).
 
-We have [Uber](http://www.uber.com) operating here in Campinas. Use the promotional code **ncjcb** to get 2 x R$10,00 discounts. *If you are traveling in groups, get one registered using this promotional code than use the first user´s promotional code to invite the others*.
+We have [Uber](https://www.uber.com/invite/ncjcb) operating here in Campinas. Use the promotional code **ncjcb** to get 2 x R$14,00 discounts. *If you are traveling in groups, get one registered using this promotional code than use the first user´s promotional code to invite the others*.
 
 ## Housing
 
@@ -31,4 +31,4 @@ You can find local attractions in [this map](http://maps.google.com.br/maps/ms?m
 
 ## Organizing Committee
 
-The organizing committee is composed by Rodolfo Azevedo (UNICAMP), Ricardo Anido (UNICAMP), Diego Aranha (UNICAMP) e Carlos Ferreira (USP).
+The organizing committee is composed by Rodolfo Azevedo (UNICAMP), Ricardo Anido (UNICAMP), Diego Aranha (UNICAMP), Rafael C. S. Schouery (UNICAMP) e Carlos Ferreira (USP).

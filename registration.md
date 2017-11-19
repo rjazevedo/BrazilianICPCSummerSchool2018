@@ -4,17 +4,15 @@ share: true
 layout: single
 ---
 
-**Registrations are closed. We are working to create new slots. If you are interested, register in the [Waiting List](https://goo.gl/forms/krzogcvBu1I5XML33).**
-
-You can register through [SBC ECOS System](https://centraldesistemas.sbc.org.br/ecos/brsummerschool2017). (*Registration Closed*)
+You can register through SBC ECOS System. (*Registration is not opened yet*)
 
 This year, we are asking for individual registration and payments. We do not impose any restriction for registration but we advise that the problemsets and training level will follow ICPC World Final.
 
-World Finalists and Brazilian Medalists are will not pay the registration fee. Brazilian Computer Society Members will get 20% discount on registration.
+World Finalists and Brazilian Medalists are will not pay the registration fee. Brazilian Computer Society Members will get 20% discount on registration. You can get some discount if you opt to register to SBC.
 
 |---|---|---|---|---|
 | |Brazilian World Finalists|Brazilian Medalists|World Finalist (not Brazilian)|Others
-Registration (for food expenses)|no-fee|no-fee|no-fee|early R$150.00 / late R$200.00
+Registration (for food expenses)|no-fee|no-fee|no-fee|early R$200.00 / late R$250.00
 Transportation|included|-|-|-
 Housing|stipend|-|-|-
 Lunch|included|included|included|included
