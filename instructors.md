@@ -8,6 +8,9 @@ Each ween we will have a different instructor sharing their experience on theory
 
 ## First Week
 
+![Mikhail Tikhomirov](../images/mikhail_tikhomirov_photo.png)
+
+Mikhail Tikhomirov will teach in our first week, from January 22nd to January 27th.
 
 ## Second Week
 
