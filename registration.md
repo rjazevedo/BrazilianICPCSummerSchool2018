@@ -4,7 +4,7 @@ share: true
 layout: single
 ---
 
-You can register through SBC ECOS System. (*Registration is not opened yet*)
+You can register through [SBC ECOS System](https://centraldesistemas.sbc.org.br/ecos/brsummerschool2018)
 
 This year, we are asking for individual registration and payments. We do not impose any restriction for registration but we advise that the problemsets and training level will follow ICPC World Final.
 
