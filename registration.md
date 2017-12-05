@@ -4,7 +4,7 @@ share: true
 layout: single
 ---
 
-**We are fully booked now**. Our registration system is closed while we wait for some confirmation. You can now register in the [waiting list](https://docs.google.com/forms/d/e/1FAIpQLSelfyY9OMxHNQ_MS6-BemeEgcUcEy8WGVyUdUV6yMQcookmaA/viewform?usp=sf_link)
+**We are fully booked now**. Our registration system is closed while we wait for some confirmation. You can now register in the [waiting list](https://docs.google.com/forms/d/e/1FAIpQLSelfyY9OMxHNQ_MS6-BemeEgcUcEy8WGVyUdUV6yMQcookmaA/viewform?usp=sf_link).
 
 This year, we are asking for individual registration and payments. We do not impose any restriction for registration but we advise that the problemsets and training level will follow ICPC World Final.
 

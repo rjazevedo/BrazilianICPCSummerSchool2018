@@ -3,6 +3,9 @@ main:
   - title: "Day-by-Day"
     url: /daybyday
 
+  - title: "Registration"
+    url: /registration
+
   - title: "Instructors"
     url: /instructors
 
@@ -11,9 +14,6 @@ main:
 
   - title: "Local Information"
     url: /local
-
-  - title: "Registration"
-    url: /registration
 
   - title: "Past Editions"
     url: /past
