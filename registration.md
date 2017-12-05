@@ -4,7 +4,7 @@ share: true
 layout: single
 ---
 
-You can register through [SBC ECOS System](https://centraldesistemas.sbc.org.br/ecos/brsummerschool2018)
+**We are fully booked now**. Our registration system is closed while we wait for some confirmation. You can now register in the [waiting list](https://docs.google.com/forms/d/e/1FAIpQLSelfyY9OMxHNQ_MS6-BemeEgcUcEy8WGVyUdUV6yMQcookmaA/viewform?usp=sf_link)
 
 This year, we are asking for individual registration and payments. We do not impose any restriction for registration but we advise that the problemsets and training level will follow ICPC World Final.
 
@@ -18,7 +18,7 @@ Housing|stipend|-|-|-
 Lunch|included|included|included|included
 Dinner|included|included|included|included
 
-If you are a World Finalist or Brazilian Medalists, you must finish your registration on the system **without** payment and send me an email (please, any payment method but do not pay). Do not pay! I will mark your registration as complete without the payment.
+If you are a World Finalist or Brazilian Medalists, you must finish your registration on the system **without** payment. All Brazilians World Finalists received an invitation letter and they should attach this invitation letter to the system. Other Latin American students should **send me an email** after registering. Do not pay! I will mark your registration as complete without the payment.
 
 We are still finishing our budget. We will define the stipend in January.
 
