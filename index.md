@@ -15,7 +15,7 @@ Our basic schedule will have theory classes in the mornings and contests in the 
 
 Don't forget to follow our [Facebook page](http://www.facebook.com/maratona) for photos and events announcements.
 
-**Register online to get updates and viu online activities** through [this Form](http://bit.ly/summerschool18). We will keep you posted about news and updates after you register.
+**Register online to get updates and view online activities** through [this Form](http://bit.ly/summerschool18). We will keep you posted about news and updates after you register.
 
 
 Recent blog posts:
