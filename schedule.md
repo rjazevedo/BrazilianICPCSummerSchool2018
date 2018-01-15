@@ -11,9 +11,27 @@ Our activities will start in the early morning (8:30AM) and go up to 6PM.
 For more updated information, go to the [Day-by-day](../daybyday) section.
 
 |---|---|
-Week|Instructor
-Jan 22rd - Jan 27th|To be defined
-Jan, 19th - Feb, 3rd|Tomasz Idziaszek
+Week|Name|Instructor|
+Jan 22rd - Jan 27th|Movile Code Week|Mikhail Tikhomirov|
+Jan, 19th - Feb, 3rd|Google Week|Tomasz Idziaszek|
+
+The table bellow show our preliminary schedule:
+
+|Day   |Morning|Lunch|Afternoon|Dinner
+|22/Jan|8:30 - Opening + lecture @ IC3 auditorium|RU|13:00 - Contest @ IC3 lab|RU|
+|23/Jan|8:30 - Lecture @ IC3 auditorium|RU|13:00 - Contest @ IC3 lab|RU|
+|24/Jan|8:30 - Lecture @ IC3 auditorium|RU|13:00 - Contest @ IC3 lab|RU|
+|25/Jan|8:00 - **Microsoft** activities @ IC3 auditorium|RU|**Movile** activities @ auditorium|iFood Office|
+|26/Jan|8:30 - Lecture @ IC3 auditorium|RU|13:00 - Contest @ IC3 lab|RU|
+|27/Jan|8:30 - Lecture @ IC3 auditorium|TBD|13:00 - Contest @ IC3 lab|Pizza|
+|29/Jan|8:30 - Lecture @ IC3 auditorium|RU|13:00 - Contest @ IC3 lab|RU|
+|30/Jan|8:30 - Lecture @ IC3 auditorium|RU|13:00 - Contest @ IC3 lab|RU|
+|31/Jan|8:30 - Lecture @ IC3 auditorium|RU|13:00 - Contest @ IC3 lab|RU|
+|01/Feb|**Google** activities|RU|**Google** activities|RU|
+|02/Feb|8:30 - Lecture @ IC3 auditorium|RU|13:00 - Contest @ IC3 lab|RU|
+|03/Feb|8:30 - Lecture @ IC3 auditorium|TBD|13:00 - Contest @ IC3 lab|-|
+
+
 
 ## Important locations in the campus
 
