@@ -18,7 +18,7 @@ Jan, 19th - Feb, 3rd|Google Week|Tomasz Idziaszek|
 The table bellow show our preliminary schedule:
 
 |Day   |Morning|Lunch|Afternoon|Dinner
-|22/Jan|8:00 - Registration + 8:00 - Opening  + 9:00 - lecture @ IC3 auditorium|RU|13:00 - Contest @ IC3 lab|RU|
+|22/Jan|8:00 - Registration + 8:30 - Opening  + 9:00 - lecture @ IC3 auditorium|RU|13:00 - Contest @ IC3 lab|RU|
 |23/Jan|8:30 - Lecture @ IC3 auditorium|RU|13:00 - Contest @ IC3 lab|RU|
 |24/Jan|8:30 - Lecture @ IC3 auditorium|RU|13:00 - Contest @ IC3 lab|RU|
 |25/Jan|8:00 - **Microsoft** activities @ IC3 auditorium|RU|**Movile** activities @ auditorium|iFood Office|
