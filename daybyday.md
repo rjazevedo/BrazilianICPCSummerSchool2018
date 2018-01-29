@@ -10,6 +10,10 @@ The Summer Camp scheduled has two parts: theory sessions in the morning and prac
 
 *If you are facing problems, please write to us.*
 
+## Movile Code Week
+
+All contests from this week will be hosted in our [Codeforces group](http://codeforces.com/group/3qadGzUdR4/contests)
+
 |Day|Lecture|Contest|
 |---|---|---|
 |22 Jan|Lectures: [video 1](https://www.youtube.com/watch?v=_qOH-nmrVsE&t=1s) [video 2](https://www.youtube.com/watch?v=pmF8onWRurE)|[statements](../documents/2018-01-22.pdf)|
@@ -18,6 +22,15 @@ The Summer Camp scheduled has two parts: theory sessions in the morning and prac
 |26 Jan|Lectures: [video 1](https://www.youtube.com/watch?v=08co2Hx_4EM) - [video 2](https://www.youtube.com/watch?v=tlXp7kdgXHA)|[statements](../documents/2018-01-26.pdf)|
 |27 Jan|[Lecture](https://www.youtube.com/watch?v=0TfJlUMjwcg)|statements: [contest a](../documents/2018-01-27-a.pdf) - [contest b](../documents/2018-01-27-b.pdf) - [cheatsheet](../documents/2018-01-27-cheatsheet.pdf)|
 
+The practice contest for matchings and network flows is now up in the Codeforces group. It is open indefinitely, so you can just solve problems at your leisure.
+
+## Google Week
+
+All contests for this week will be hosted by [SIO2 system](https://sio2.mimuw.edu.pl).
+
+|Day|Lecture|Contest|
+|---|---|---|
+|29 Jan|[Lecture](https://youtu.be/XGF5d7_PkyE)|[statements](../documents/2018/01/29.pdf)|
 
 ## Important locations inside the campus
 
