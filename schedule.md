@@ -27,7 +27,7 @@ The table bellow show our preliminary schedule:
 |29/Jan|8:30 - Lecture @ IC3 auditorium|RU|13:00 - Contest @ IC3 lab|RU|
 |30/Jan|8:30 - Lecture @ IC3 auditorium|RU|13:00 - Contest @ IC3 lab|RU|
 |31/Jan|8:30 - Lecture @ IC3 auditorium|RU|13:00 - Contest @ IC3 lab|RU|
-|01/Feb|11:00 - Talk: Life of a Google Software Engineer @ IC3 auditorium|RU|-|RU|
+|01/Feb|11:00 - **Google** Talk: Life of a Google Software Engineer @ IC3 auditorium|RU|-|RU|
 |02/Feb|8:30 - Lecture @ IC3 auditorium|RU|13:00 - Contest @ IC3 lab|RU|
 |03/Feb|8:30 - Lecture @ IC3 auditorium|TBD|13:00 - Contest @ IC3 lab|-|
 
