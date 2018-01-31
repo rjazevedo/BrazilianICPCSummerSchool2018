@@ -31,7 +31,9 @@ All contests for this week will be hosted by [SIO2 system](https://sio2.mimuw.ed
 |Day|Lecture|Contest|
 |---|---|---|
 |29 Jan|[Lecture](https://youtu.be/XGF5d7_PkyE)|[statements](../documents/2018-01-29.pdf) - [results](../documents/2018-01-29-results.html)|
-|30 Jan|[Lecture](https://www.youtube.com/watch?v=gDOjv_r2Cb4)|[statements](../documents/2018-01-30.pdf)|
+|30 Jan|[Lecture](https://www.youtube.com/watch?v=gDOjv_r2Cb4)|[statements](../documents/2018-01-30.pdf) - [results](../documents/2018-01-30-results.html)|
+|31 Jan|[Lecture](https://www.youtube.com/watch?v=f5d5uvtCIJw)|[statements](../documents/2018-01-31.pdf)|
+
 
 ## Important locations inside the campus
 
