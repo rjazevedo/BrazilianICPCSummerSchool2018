@@ -22,7 +22,7 @@ We could not host this great event without the support of our sponsors: **Google
 
 Behind the scenes we had four student monitors: Elaine, Ivan, José, and Rafael, who arrived early and stayed latter than anyone else.
 
-We hope you all enjoyed and have great results in your future programming competitions!
+We hope you all enjoyed and have great results in your future programming competitions! Have a safe trip!
 
 Week 1 Group Picture:
 ![Week 1 Picture](../../images/week1.jpg)
