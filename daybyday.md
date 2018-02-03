@@ -34,7 +34,8 @@ All contests for this week will be hosted by [SIO2 system](https://sio2.mimuw.ed
 |30 Jan|[Lecture](https://www.youtube.com/watch?v=gDOjv_r2Cb4)|[statements](../documents/2018-01-30.pdf) - [results](../documents/2018-01-30-results.html)|
 |31 Jan|[Lecture](https://www.youtube.com/watch?v=f5d5uvtCIJw)|[statements](../documents/2018-01-31.pdf) - [results](../documents/2018-01-31-results.html)|
 |02 Fev|[Lecture](https://www.youtube.com/watch?v=jNjypAoGvXM)|[statements](../documents/2018-02-02.pdf)|
-
+|03
+Fev|[Lecture](https://www.youtube.com/watch?v=AHhcGy3BgDQ)|upsolving problems|
 
 ## Important locations inside the campus
 
