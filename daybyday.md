@@ -12,7 +12,7 @@ The Summer Camp scheduled has two parts: theory sessions in the morning and prac
 
 ## Movile Code Week
 
-All contests from this week will be hosted in our [Codeforces group](http://codeforces.com/group/3qadGzUdR4/contests)
+All contests from this week will be hosted in our [Codeforces group](http://codeforces.com/group/3qadGzUdR4/contests).
 
 |Day|Lecture|Contest|
 |---|---|---|
